@@ -1,5 +1,8 @@
 # Leonardo-dev
 
+<img src="https://raw.githubusercontent.com/LeonardoCosme/LeonardoCosme/main/banner.png" alt="Banner Leonardo Cosme" style="width:100%;"/>
+
+
 <h1 align="center">Olá! Eu sou o Leonardo 👋</h1>
 
 <p align="center">
