@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (6 semestre) 
 💻 Apaixonado por programação e por resolver problemas reais com tecnologia  
 📍 São Paulo - SP  
 📚 Atualmente focado em desenvolvimento web fullstack  
@@ -46,4 +46,4 @@
 
 ---
 
-### ✨ “Sempre aprendendo, sempre evoluindo.”  
+### “Sempre aprendendo, sempre evoluindo.”  
