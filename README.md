@@ -1,6 +1,7 @@
 # Leonardo-dev
 
-![Banner Leonardo Cosme](https://raw.githubusercontent.com/LeonardoCosme/Leonardo-dev/main/banner.png)
+<img src="https://raw.githubusercontent.com/LeonardoCosme/Leonardo-dev/main/banner.png" alt="Banner Leonardo Cosme" width="100%">
+
 
 <h1 align="center">Olá! Eu sou o Leonardo 👋</h1>
 
